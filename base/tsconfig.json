@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"esModuleInterop": false,
+		"erasableSyntaxOnly": true,
+		"exactOptionalPropertyTypes": true,
+		"forceConsistentCasingInFileNames": true,
+		"lib": ["ESNext"], // overridable
+		"module": "ESNext",
+		"noEmitOnError": true,
+		"preserveConstEnums": true,
+		"strict": true,
+		"target": "ESNext" // overridable
+	}
+}

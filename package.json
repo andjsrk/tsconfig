@@ -1,0 +1,17 @@
+{
+	"name": "@andjsrk/tsconfig",
+	"description": "A set of tsconfigs personally preferred",
+	"version": "0.1.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/andjsrk/tsconfig.git"
+	},
+	"homepage": "https://github.com/andjsrk/tsconfig",
+	"devDependencies": {
+		"typescript": "5.8.x"
+	},
+	"files": [
+		"base"
+	],
+	"keywords": ["typescript", "tsconfig"]
+}
