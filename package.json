@@ -1,7 +1,7 @@
 {
 	"name": "@andjsrk/tsconfig",
 	"description": "A set of tsconfigs personally preferred",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/andjsrk/tsconfig.git"

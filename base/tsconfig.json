@@ -5,7 +5,7 @@
 		"exactOptionalPropertyTypes": true,
 		"forceConsistentCasingInFileNames": true,
 		"lib": ["ESNext"], // overridable
-		"module": "ESNext",
+		"module": "ESNext", // overridable
 		"noEmitOnError": true,
 		"preserveConstEnums": true,
 		"strict": true,
